@@ -1,4 +1,6 @@
+#Stone-Paper-Scissors-Game
 - What is the name of the project?
+
   It is the  (Stone Paper Scissors) game
 
 -  How can you run?
